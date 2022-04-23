@@ -14,3 +14,11 @@ Notes in my journey in 100 days of code for machine learning
     - multiple linear regression
     - cost function
     - confuse matric
+## Day 03
+  ### learn logistic regression using sklearn
+    - what is logistic regression
+    - math behind logistic regression
+    - EDA
+    - Data Visiluaztion 
+    - logistic regression implementation in breast cancer data set
+    - build a predictive system to the model
