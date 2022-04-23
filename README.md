@@ -7,3 +7,10 @@ Notes in my journey in 100 days of code for machine learning
     - work with categorical data and dummy variable
     - Scalling the data
     - split data to train, and test 
+## Day 02
+  ### learn linear regression using sklearn
+    - math behined linear regression
+    - simple linear regression 
+    - multiple linear regression
+    - cost function
+    - confuse matric
